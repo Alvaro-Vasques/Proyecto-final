@@ -1,6 +1,6 @@
 ---
 title: "Estado del Covid en Costa Rica"
-author: "Kevin Chavarría"
+author: "Kevin Chavarría, \nDilena Cruz, \nAlvaro Vásquez"
 output:
   flexdashboard::flex_dashboard:
     orientation: rows
